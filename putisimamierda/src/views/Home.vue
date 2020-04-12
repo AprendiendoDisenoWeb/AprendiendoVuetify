@@ -1,5 +1,6 @@
 <style>
 .myfont {
+  font-size: 20px;
   font-family: 'Ubuntu Mono', monospace;
 }
 </style>
