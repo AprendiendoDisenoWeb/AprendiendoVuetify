@@ -6,9 +6,9 @@
 </style>
 
 <template>
-  <v-container fluid class="accent" style="height:2000px">
+  <v-container fluid style="height:2000px">
     <v-layout wrap>
-      <v-flex class="primary" xs12>
+      <v-flex class="white" xs12>
         <h1>12</h1>
       </v-flex>
       <v-flex class="secondary" xs6>
